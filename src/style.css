@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sub-img{
+    width: 100px !important;
+}
+
+.form-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.form-main input {
+    width: 500px;
+    padding: 5px 10px;
+    margin: 0 auto;
+    margin: 5px auto;
+}
+
+table {
+    width: 100%;
+}
+
+.sub-img {
+    width: 100%;
+    padding: 15px;
+    border-radius: 30px;
+}
